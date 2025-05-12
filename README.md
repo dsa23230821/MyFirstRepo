@@ -1,2 +1,6 @@
-# MyFirstRepo
-My First Repository
+# 機械学習・ディープラーニングの実験
+
+* データ収集
+* 実践
+* やり直す
+
